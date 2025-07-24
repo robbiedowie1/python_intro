@@ -17,7 +17,7 @@ print(household[-4:])
 
 humans = household[0:4]
 
-#pets
+#pets 1
 
 pets = household[4:]
 
