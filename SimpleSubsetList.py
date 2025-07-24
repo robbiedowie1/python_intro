@@ -23,3 +23,6 @@ pets = household[4:]
 
 print("new varible output", pets)
 print("new varible output", humans)
+
+
+
