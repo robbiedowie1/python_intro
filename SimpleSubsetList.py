@@ -13,7 +13,7 @@ print(household[4:])
 print(household[-4:])
 
 # new variable from list 
-# Humans 
+# Humans info . 
 
 humans = household[0:4]
 
